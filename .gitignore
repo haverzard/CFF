@@ -1,0 +1,5 @@
+# Ignore unsolved problem
+/PCBCircuitProblem
+/RectangleProblem
+/ServerAllocation
+*.exe
