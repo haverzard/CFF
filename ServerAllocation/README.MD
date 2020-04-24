@@ -27,5 +27,9 @@ This problem is a maxflow problem. We can represent each country as a node. For 
 ## Output Images
 Located in folder output.
 
+### Sample Output
+![Sample Problem](git_assets/problem.png)
+![Sample Solution](git_assets/solution.png)
+
 ## Paper
 Coming Soon
