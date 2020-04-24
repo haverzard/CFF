@@ -1,0 +1,17 @@
+10
+Indonesia 3 4
+Zimbabwe 4 3
+China 10 3
+France 5 20
+Singapore 8 10
+US 3 4
+England 4 3
+Bangladesh 10 3
+South_Korea 5 20
+Russia 8 10
+5
+Zimbabwe Indonesia 1
+Singapore France 5
+France China 3
+Singapore China 4
+Indonesia Zimbabwe 100

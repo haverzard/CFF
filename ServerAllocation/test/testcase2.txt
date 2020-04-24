@@ -1,0 +1,8 @@
+4
+Brazil 5 1
+Mongolia 8 200
+Finlandia 2 3
+Wales 2 5
+2
+Brazil Wales 100
+Wales Brazil 2

@@ -1,0 +1,7 @@
+3
+Japan 100 60
+Italia 30 50
+Canada 57 70
+2
+Italia Japan 50
+Canada Italia 20
