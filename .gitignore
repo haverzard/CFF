@@ -1,5 +1,21 @@
-# Ignore unsolved problem
+# VSCode
+/.vscode
+
+# Ignore problem
 /PCBCircuitProblem
 /RectangleProblem
-/ServerAllocation
+
+# Ignore compiled code
 *.exe
+__pycache__/
+
+# Ignore problems
+/GoogleCodingChallenge2020
+/GoogleKickStart2020
+/Plates
+/HousePurchase
+/Workout
+/Test
+
+# Ignore test
+test.py
