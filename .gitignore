@@ -8,6 +8,8 @@
 # Ignore compiled code
 *.exe
 __pycache__/
+target/
+Cargo.lock
 
 # Ignore problems
 /GoogleCodingChallenge2020
